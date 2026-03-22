@@ -1,6 +1,6 @@
 module.exports = {
     ADD_RECOVERY_EMAIL: true,
-    USE_PROXY: false,
+    USE_PROXY: true,
     PROXY_USERNAME: 'username',
     PROXY_PASSWORD: 'password',
     PROXY_IP: 'ip',
